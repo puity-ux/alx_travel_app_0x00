@@ -1,1 +1,12 @@
 
+# alx_travel_app_0x00
+
+This is the ALX Django REST API project for managing travel listings, bookings, and reviews.
+
+## Features
+- Listings model
+- Bookings
+- Reviews
+- Custom database seeding command
+
+## How to run
